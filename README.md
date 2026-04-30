@@ -1,34 +1,83 @@
-
-
 ## 🌐 Connect With Me
-
+ 
 <div align="center">
-
-### 📬 Social & Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-samikshachavan.vercel.app-%23000000?style=flat-square&logo=vercel&logoColor=white)](https://samikshachavan.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samikshachavan22-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samikshachavan22)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-samiksha___22-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/samiksha___22)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-samikshaa1902-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samikshaa1902@gmail.com)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-samikshachavan12-%235865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/samikshachavan12)
-
-### 💻 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-samiksha1203-%23FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/samiksha1203)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-samiksha1203-%2300EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/samiksha1203)&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-samiksha1203-%235B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/samiksha1203)&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-samiksha1203-%230F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/samiksha1203)
-
-### 🤖 AI / ML & Competitions
-[![Kaggle](https://img.shields.io/badge/Kaggle-samikshachavan22-%2320BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/samikshachavan22)&nbsp;
-[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-samikshachavan-%23FFD21E?style=flat-square)](https://huggingface.co/samikshachavan)&nbsp;
-[![Unstop](https://img.shields.io/badge/Unstop-samikcha79808-%23594CF5?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScAAAAAElFTkSuQmCC&logoColor=white)](https://unstop.com/u/samikcha79808)
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://samikshachavan.vercel.app/">
+        <img src="https://img.shields.io/badge/🌍_Portfolio-%23000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/samikshachavan22">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:samikshaa1902@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/samikshachavan12">
+        <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/samiksha___22">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=samiksha-1203&label=Profile+Views&color=58a6ff&style=flat-square)](https://github.com/samiksha-1203)
-
+### 💻 Coding Profiles
+ 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/samiksha1203">
+        <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://hackerrank.com/profile/samiksha1203">
+        <img src="https://img.shields.io/badge/HackerRank-%2300EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codechef.com/users/samiksha1203">
+        <img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/samiksha1203">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/samikshachavan22">
+        <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://huggingface.co/samikshachavan">
+        <img src="https://img.shields.io/badge/🤗_Hugging_Face-%23FFD21E?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://unstop.com/u/samikcha79808">
+        <img src="https://img.shields.io/badge/Unstop-%23594CF5?style=for-the-badge&amp;logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br/>
+[![Profile Views](https://komarev.com/ghpvc/?username=samiksha-1203&amp;label=Profile+Views&amp;color=58a6ff&amp;style=flat-square)](https://github.com/samiksha-1203)
+ 
 </div>
-
 ---
+
 
 ## 🧠 About Me
 
