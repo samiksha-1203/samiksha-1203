@@ -73,8 +73,6 @@
   </tr>
 </table>
 <br/>
-[![Profile Views](https://komarev.com/ghpvc/?username=samiksha-1203&amp;label=Profile+Views&amp;color=58a6ff&amp;style=flat-square)](https://github.com/samiksha-1203)
- 
 </div>
 ---
 
