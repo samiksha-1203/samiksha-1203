@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Samiksha%20Chavan&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20matter%20✦&descAlignY=60&descAlign=50&descColor=8b949e&descSize=20" />
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+JavaScript+Enthusiast;Flask+%26+Django+Backend+Builder;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Samiksha%20Chavan&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%26%20Web%20Developer%20✦&descAlignY=60&descAlign=50&descColor=8b949e&descSize=20" />
 
 </div>
 
@@ -14,23 +11,74 @@
 
 <div align="center">
 
-### 📬 Social & Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-samikshachavan.vercel.app-%23000000?style=flat-square&logo=vercel&logoColor=white)](https://samikshachavan.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samikshachavan22-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samikshachavan22)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-samiksha___22-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/samiksha___22)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-samikshaa1902-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samikshaa1902@gmail.com)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-samikshachavan12-%235865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/samikshachavan12)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://samikshachavan.vercel.app/">
+        <img src="https://img.shields.io/badge/🌍_Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/samikshachavan22">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:samikshaa1902@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/samikshachavan12">
+        <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/samiksha___22">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### 💻 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-samiksha1203-%23FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/samiksha1203)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-samiksha1203-%2300EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/samiksha1203)&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-samiksha1203-%235B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/samiksha1203)&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-samiksha1203-%230F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/samiksha1203)
 
-### 🤖 AI / ML & Competitions
-[![Kaggle](https://img.shields.io/badge/Kaggle-samikshachavan22-%2320BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/samikshachavan22)&nbsp;
-[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-samikshachavan-%23FFD21E?style=flat-square)](https://huggingface.co/samikshachavan)&nbsp;
-[![Unstop](https://img.shields.io/badge/Unstop-samikcha79808-%23594CF5?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScAAAAAElFTkSuQmCC&logoColor=white)](https://unstop.com/u/samikcha79808)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/samiksha1203">
+        <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://hackerrank.com/profile/samiksha1203">
+        <img src="https://img.shields.io/badge/HackerRank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codechef.com/users/samiksha1203">
+        <img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/samiksha1203">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/samikshachavan22">
+        <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://huggingface.co/samikshachavan">
+        <img src="https://img.shields.io/badge/🤗_Hugging_Face-%23FFD21E?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -40,52 +88,44 @@
 
 ---
 
-## 🧠 About Me
-
-```python
-class Samiksha:
-    name        = "Samiksha Chavan"
-    location    = "India 🇮🇳"
-    portfolio   = "https://samikshachavan.vercel.app/"
-    languages   = ["Python", "Java", "JavaScript", "C"]
-    frameworks  = ["Django", "Flask", "Bootstrap"]
-    tools       = ["Git", "GitHub", "SQLite", "Canva", "LaTeX"]
-    deployed    = ["Vercel", "Render"]
-    ai_ml       = ["Kaggle", "Hugging Face"]
-    competing   = ["Unstop", "HackerRank", "CodeChef"]
-    currently   = "Building cool stuff & leveling up every day 🚀"
-    ask_me_about = ["Web Dev", "Backend APIs", "Open Source", "AI/ML"]
-```
-
----
-
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-#### 💬 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
-
-#### 🌐 Frontend
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-%23007ACC?style=for-the-badge&logo=css3&logoColor=white)
 
-#### ⚙️ Backend & Databases
+### 💬 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI & ML
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-%23FFD21E?style=for-the-badge)
+![Gradio](https://img.shields.io/badge/Gradio-%23FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white?style=for-the-badge&logo=opencv&logoColor=white)
+![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-%238A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### ☁️ Tools & Platforms
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### ☁️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
@@ -95,12 +135,12 @@ class Samiksha:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samiksha-1203&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samiksha-1203&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=samiksha-1203&theme=one_dark_pro&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-1203&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=donut" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-1203&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
 
 </div>
 
@@ -110,7 +150,7 @@ class Samiksha:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=samiksha-1203&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=samiksha-1203&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
