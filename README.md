@@ -5,27 +5,27 @@
   <tr>
     <td align="center">
       <a href="https://samikshachavan.vercel.app/">
-        <img src="https://img.shields.io/badge/🌍_Portfolio-%23000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/🌍_Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/samikshachavan22">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="mailto:samikshaa1902@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="https://discord.com/users/samikshachavan12">
-        <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="https://instagram.com/samiksha___22">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -38,27 +38,27 @@
   <tr>
     <td align="center">
       <a href="https://leetcode.com/u/samiksha1203">
-        <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="https://hackerrank.com/profile/samiksha1203">
-        <img src="https://img.shields.io/badge/HackerRank-%2300EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/HackerRank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="https://codechef.com/users/samiksha1203">
-        <img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="https://auth.geeksforgeeks.org/user/samiksha1203">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="https://kaggle.com/samikshachavan22">
-        <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
       </a>
     </td>
     <td align="center">
@@ -68,7 +68,7 @@
     </td>
     <td align="center">
       <a href="https://unstop.com/u/samikcha79808">
-        <img src="https://img.shields.io/badge/Unstop-%23594CF5?style=for-the-badge&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Unstop-%23594CF5?style=for-the-badge&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -106,17 +106,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-%238A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
  
-### ☁️ Tools & Platforms
-![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
- 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -148,7 +139,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samiksha-1203&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/samiksha-1203)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samiksha-1203&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&days=30)](https://github.com/samiksha-1203)
 
 </div>
 
