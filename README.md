@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner with circuit/code aesthetic -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1b2a,60:1a2744,100:0f3460&height=220&section=header&text=Samiksha%20Chavan&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%26%20Web%20Developer&descAlignY=62&descAlign=50&descColor=7ec8e3&descSize=22&stroke=00d4ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:1a2744,100:0f3460&height=220&section=header&text=Samiksha%20Chavan&fontSize=62&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%26%20Full%20Stack%20Developer&descAlignY=62&descAlign=50&descColor=7ec8e3&descSize=22" />
 
 <br/>
 
@@ -165,7 +165,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f3460,50:1a2744,100:0a0a0f&height=130&section=footer&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a2744,100:0a0a0f&height=130&section=footer&animation=fadeIn" />
 
 <sub>✦ If my work helped you, a ⭐ goes a long way — thank you! ✦</sub>
 
