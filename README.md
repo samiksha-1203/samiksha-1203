@@ -1,14 +1,4 @@
-<div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Samiksha%20Chavan&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20matter%20✦&descAlignY=60&descAlign=50&descColor=8b949e&descSize=20" />
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+JavaScript+Enthusiast;Flask+%26+Django+Backend+Builder;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
