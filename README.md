@@ -76,6 +76,7 @@
 <br/>
 </div>
 
+---
 ## 🛠️ Technical Skills
  
 <div align="center">
