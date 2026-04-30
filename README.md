@@ -120,6 +120,17 @@
  
 </div>
 ---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samiksha-1203&amp;theme=one_dark_pro&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;rank_icon=github" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=samiksha-1203&amp;theme=one_dark_pro&amp;hide_border=true" />
+<br/><br/>
+ 
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-1203&amp;theme=one_dark_pro&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=donut" />
+</div>
+---
 
 ## 📊 GitHub Stats
 
