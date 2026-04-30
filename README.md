@@ -31,7 +31,8 @@
   </tr>
 </table>
 <br/>
-### 💻 Coding Profiles
+ 
+## 💻 Coding Profiles
  
 <table>
   <tr>
@@ -74,27 +75,6 @@
 </table>
 <br/>
 </div>
----
-
-
-## 🧠 About Me
-
-```python
-class Samiksha:
-    name        = "Samiksha Chavan"
-    location    = "India 🇮🇳"
-    portfolio   = "https://samikshachavan.vercel.app/"
-    languages   = ["Python", "Java", "JavaScript", "C"]
-    frameworks  = ["Django", "Flask", "Bootstrap"]
-    tools       = ["Git", "GitHub", "SQLite", "Canva", "LaTeX"]
-    deployed    = ["Vercel", "Render"]
-    ai_ml       = ["Kaggle", "Hugging Face"]
-    competing   = ["Unstop", "HackerRank", "CodeChef"]
-    currently   = "Building cool stuff & leveling up every day 🚀"
-    ask_me_about = ["Web Dev", "Backend APIs", "Open Source", "AI/ML"]
-```
-
----
 
 ## 🛠️ Tech Arsenal
 
