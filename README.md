@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0f,30:0d1b2a,60:1a2744,100:0f3460&amp;height=220&amp;section=header&amp;text=Samiksha%20Chavan&amp;fontSize=62&amp;fontColor=00d4ff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=AI%2FML%20%26%20Full%20Stack%20Developer&amp;descAlignY=62&amp;descAlign=50&amp;descColor=7ec8e3&amp;descSize=22" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Samiksha%20Chavan&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20matter%20✦&descAlignY=60&descAlign=50&descColor=8b949e&descSize=20" />
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=samiksha-1203&amp;label=Profile+Views&amp;color=00d4ff&amp;style=flat-square)](https://github.com/samiksha-1203)
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+JavaScript+Enthusiast;Flask+%26+Django+Backend+Builder;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -14,114 +14,78 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="120">
-  <a href="https://samikshachavan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Portfolio-0d1b2a?style=for-the-badge&amp;logoColor=00d4ff" /><br/>
-    <sub><b>Portfolio</b></sub>
-  </a>
-</td>
-<td align="center" width="120">
-  <a href="https://www.linkedin.com/in/samikshachavan22" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /><br/>
-    <sub><b>LinkedIn</b></sub>
-  </a>
-</td>
-<td align="center" width="120">
-  <a href="mailto:samikshaa1902@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /><br/>
-    <sub><b>Email</b></sub>
-  </a>
-</td>
-<td align="center" width="120">
-  <a href="https://kaggle.com/samikshachavan22" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20beff?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" /><br/>
-    <sub><b>Kaggle</b></sub>
-  </a>
-</td>
-<td align="center" width="120">
-  <a href="https://huggingface.co/samikshachavan" target="_blank">
-    <img src="https://img.shields.io/badge/-HuggingFace-ffd21e?style=for-the-badge&amp;logoColor=black" /><br/>
-    <sub><b>HuggingFace</b></sub>
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-  <a href="https://leetcode.com/u/samiksha1203" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-ffa116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" /><br/>
-    <sub><b>LeetCode</b></sub>
-  </a>
-</td>
-<td align="center" width="120">
-  <a href="https://hackerrank.com/profile/samiksha1203" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-00ea64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" /><br/>
-    <sub><b>HackerRank</b></sub>
-  </a>
-</td>
-<td align="center" width="120">
-  <a href="https://codechef.com/users/samiksha1203" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-5b4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" /><br/>
-    <sub><b>CodeChef</b></sub>
-  </a>
-</td>
-<td align="center" width="120">
-  <a href="https://auth.geeksforgeeks.org/user/samiksha1203" target="_blank">
-    <img src="https://img.shields.io/badge/-GFG-0f9d58?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" /><br/>
-    <sub><b>GeeksForGeeks</b></sub>
-  </a>
-</td>
-<td align="center" width="120">
-  <a href="https://discord.com/users/samikshachavan12" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" /><br/>
-    <sub><b>Discord</b></sub>
-  </a>
-</td>
-</tr>
-</table>
+### 📬 Social & Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-samikshachavan.vercel.app-%23000000?style=flat-square&logo=vercel&logoColor=white)](https://samikshachavan.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samikshachavan22-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samikshachavan22)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-samiksha___22-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/samiksha___22)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-samikshaa1902-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samikshaa1902@gmail.com)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-samikshachavan12-%235865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/samikshachavan12)
+
+### 💻 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-samiksha1203-%23FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/samiksha1203)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-samiksha1203-%2300EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/samiksha1203)&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-samiksha1203-%235B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/samiksha1203)&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-samiksha1203-%230F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/samiksha1203)
+
+### 🤖 AI / ML & Competitions
+[![Kaggle](https://img.shields.io/badge/Kaggle-samikshachavan22-%2320BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/samikshachavan22)&nbsp;
+[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-samikshachavan-%23FFD21E?style=flat-square)](https://huggingface.co/samikshachavan)&nbsp;
+[![Unstop](https://img.shields.io/badge/Unstop-samikcha79808-%23594CF5?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScAAAAAElFTkSuQmCC&logoColor=white)](https://unstop.com/u/samikcha79808)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=samiksha-1203&label=Profile+Views&color=58a6ff&style=flat-square)](https://github.com/samiksha-1203)
 
 </div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 About Me
+
+```python
+class Samiksha:
+    name        = "Samiksha Chavan"
+    location    = "India 🇮🇳"
+    portfolio   = "https://samikshachavan.vercel.app/"
+    languages   = ["Python", "Java", "JavaScript", "C"]
+    frameworks  = ["Django", "Flask", "Bootstrap"]
+    tools       = ["Git", "GitHub", "SQLite", "Canva", "LaTeX"]
+    deployed    = ["Vercel", "Render"]
+    ai_ml       = ["Kaggle", "Hugging Face"]
+    competing   = ["Unstop", "HackerRank", "CodeChef"]
+    currently   = "Building cool stuff & leveling up every day 🚀"
+    ask_me_about = ["Web Dev", "Backend APIs", "Open Source", "AI/ML"]
+```
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-%23323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%230d1b2a?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=00d4ff)
+#### 💬 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 💬 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&amp;logo=c&amp;logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
+#### ⚙️ Backend & Databases
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🤖 AI &amp; ML
-![HuggingFace](https://img.shields.io/badge/HuggingFace%20Transformers-%23FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-%23F97316?style=for-the-badge&amp;logo=gradio&amp;logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white)
-![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-%230d1b2a?style=for-the-badge&amp;logoColor=00d4ff)
-
-### ☁️ Tools &amp; DevOps
-![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;logo=github&amp;logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
+#### ☁️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
@@ -131,12 +95,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samiksha-1203&amp;theme=midnight-purple&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;rank_icon=github&amp;border_color=00d4ff&amp;title_color=00d4ff&amp;icon_color=7ec8e3&amp;text_color=c9d1d9&amp;bg_color=0d1117" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=samiksha-1203&amp;theme=midnight-purple&amp;hide_border=false&amp;border=00d4ff&amp;stroke=00d4ff&amp;ring=00d4ff&amp;fire=ff6b6b&amp;currStreakLabel=00d4ff&amp;background=0D1117&amp;sideLabels=7ec8e3&amp;dates=8b949e" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samiksha-1203&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=samiksha-1203&theme=one_dark_pro&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-1203&amp;theme=midnight-purple&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=donut&amp;border_color=00d4ff&amp;title_color=00d4ff&amp;bg_color=0d1117&amp;text_color=c9d1d9" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-1203&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=donut" />
 
 </div>
 
@@ -146,7 +110,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=samiksha-1203&amp;theme=algolia&amp;no-frame=false&amp;no-bg=true&amp;margin-w=8&amp;column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=samiksha-1203&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6)
 
 </div>
 
@@ -156,7 +120,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samiksha-1203&amp;bg_color=0d1117&amp;color=00d4ff&amp;line=0f3460&amp;point=00d4ff&amp;area=true&amp;area_color=1a2744&amp;hide_border=false&amp;border_color=00d4ff&amp;title_color=00d4ff)](https://github.com/samiksha-1203)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samiksha-1203&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/samiksha-1203)
 
 </div>
 
@@ -164,8 +128,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f3460,50:1a2744,100:0a0a0f&amp;height=130&amp;section=footer&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
-<sub>✦ If my work helped you, a ⭐ goes a long way — thank you! ✦</sub>
+<sub>⭐ Star my repos if you find them useful — it means the world! ⭐</sub>
 
 </div>
