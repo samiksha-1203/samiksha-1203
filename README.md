@@ -4,24 +4,8 @@ Full-Stack Developer & AI/ML Enthusiast. I build clean, functional software — 
 
 Currently pursuing Computer Science at VIT Mumbai, actively competing on platforms like LeetCode and Kaggle while contributing to open-source AI tooling.
 
-<a href="https://samikshachavan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-samikshachavan.vercel.app-white?style=flat-square&labelColor=white&color=black" alt="Portfolio"/>
-</a>&nbsp;
-<a href="https://linkedin.com/in/samikshachavan22">
-<img src="https://img.shields.io/badge/LinkedIn-samikshachavan22-white?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white&color=black" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://github.com/samiksha-1203">
-<img src="https://img.shields.io/badge/GitHub-samiksha--1203-white?style=flat-square&logo=github&logoColor=black&labelColor=white&color=black" alt="GitHub"/>
-</a>&nbsp;
-<a href="mailto:samikshaa1902@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-samikshaa1902-white?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=white&color=black" alt="Gmail"/>
-</a>
-
 ---
 
-```bash
-> echo $TECH_STACK
-```
 
 ## Tech Stack
 
@@ -55,11 +39,30 @@ Currently pursuing Computer Science at VIT Mumbai, actively competing on platfor
 
 ---
 
-```bash
-> ls -la ~/coding-profiles/
-```
+## Connect With Me
 
-## Competitive Programming & Profiles
+**Social**
+
+<a href="https://samikshachavan.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-samikshachavan.vercel.app-white?style=flat-square&labelColor=white&color=black" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/samikshachavan22">
+<img src="https://img.shields.io/badge/LinkedIn-samikshachavan22-white?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white&color=black" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/samiksha-1203">
+<img src="https://img.shields.io/badge/GitHub-samiksha--1203-white?style=flat-square&logo=github&logoColor=black&labelColor=white&color=black" alt="GitHub"/>
+</a>&nbsp;
+<a href="mailto:samikshaa1902@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-samikshaa1902@gmail.com-white?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=white&color=black" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://instagram.com/samiksha___22">
+<img src="https://img.shields.io/badge/Instagram-samiksha___22-white?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=white&color=black" alt="Instagram"/>
+</a>&nbsp;
+<a href="https://discord.com/users/samikshachavan12">
+<img src="https://img.shields.io/badge/Discord-samikshachavan12-white?style=flat-square&logo=discord&logoColor=5865F2&labelColor=white&color=black" alt="Discord"/>
+</a>
+
+**Coding & Research**
 
 <a href="https://leetcode.com/u/samiksha1203">
 <img src="https://img.shields.io/badge/LeetCode-samiksha1203-white?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=white&color=black" alt="LeetCode"/>
@@ -78,13 +81,12 @@ Currently pursuing Computer Science at VIT Mumbai, actively competing on platfor
 </a>&nbsp;
 <a href="https://huggingface.co/samikshachavan">
 <img src="https://img.shields.io/badge/HuggingFace-samikshachavan-white?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=white&color=black" alt="HuggingFace"/>
+</a>&nbsp;
+<a href="https://unstop.com/u/samikcha79808">
+<img src="https://img.shields.io/badge/Unstop-samikcha79808-white?style=flat-square&labelColor=white&color=black" alt="Unstop"/>
 </a>
 
 ---
-
-```bash
-> cat ~/stats/github.md
-```
 
 ## GitHub Stats
 
