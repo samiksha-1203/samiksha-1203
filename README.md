@@ -1,139 +1,97 @@
-## 🌐 Connect With Me
- 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://samikshachavan.vercel.app/">
-        <img src="https://img.shields.io/badge/🌍_Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/samikshachavan22">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:samikshaa1902@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.com/users/samikshachavan12">
-        <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/samiksha___22">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br/>
- 
-## 💻 Coding Profiles
- 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://leetcode.com/u/samiksha1203">
-        <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://hackerrank.com/profile/samiksha1203">
-        <img src="https://img.shields.io/badge/HackerRank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://codechef.com/users/samiksha1203">
-        <img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://auth.geeksforgeeks.org/user/samiksha1203">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kaggle.com/samikshachavan22">
-        <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://huggingface.co/samikshachavan">
-        <img src="https://img.shields.io/badge/🤗_Hugging_Face-%23FFD21E?style=for-the-badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://unstop.com/u/samikcha79808">
-        <img src="https://img.shields.io/badge/Unstop-%23594CF5?style=for-the-badge&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br/>
-</div>
+# About
 
----
-## 🛠️ Technical Skills
- 
-<div align="center">
+Full-Stack Developer & AI/ML Enthusiast. I build clean, functional software — from responsive web interfaces to intelligent systems that integrate real-world data and machine learning pipelines.
 
-<h3>🌐 Web Development</h3>
+Currently pursuing Computer Science at VIT Mumbai, actively competing on platforms like LeetCode and Kaggle while contributing to open-source AI tooling.
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-%23007ACC?style=for-the-badge&logo=css3&logoColor=white)
-
-<h3>💬 Programming Languages</h3>
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<h3>🗄️ Databases</h3>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<h3>🤖 AI & ML</h3>
-
-![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace_Transformers-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-%23FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-%238A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samiksha-1203&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=samiksha-1203&theme=one_dark_pro&hide_border=true" />
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-1203&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=donut" />
-
-</div>
+<a href="https://samikshachavan.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-samikshachavan.vercel.app-white?style=flat-square&labelColor=white&color=black" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/samikshachavan22">
+<img src="https://img.shields.io/badge/LinkedIn-samikshachavan22-white?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white&color=black" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/samiksha-1203">
+<img src="https://img.shields.io/badge/GitHub-samiksha--1203-white?style=flat-square&logo=github&logoColor=black&labelColor=white&color=black" alt="GitHub"/>
+</a>&nbsp;
+<a href="mailto:samikshaa1902@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-samikshaa1902-white?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=white&color=black" alt="Gmail"/>
+</a>
 
 ---
 
-## 🏆 GitHub Trophies
+```bash
+> echo $TECH_STACK
+```
 
-<div align="center">
+## Tech Stack
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=samiksha-1203&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6)
+**Languages**
 
-</div>
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![Java](https://img.shields.io/badge/Java-white?style=flat-square&logo=openjdk&logoColor=ED8B00)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-white?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
+![C](https://img.shields.io/badge/C-white?style=flat-square&logo=c&logoColor=00599C)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-white?style=flat-square&logo=sqlite&logoColor=003B57)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=css3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/React-white?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=7952B3)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=4479A1)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=47A248)
+
+**AI / ML**
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace_Transformers-white?style=flat-square&logo=huggingface&logoColor=FFD21E)&nbsp;
+![Gradio](https://img.shields.io/badge/Gradio-white?style=flat-square&logo=gradio&logoColor=FF7C00)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-white?style=flat-square&logo=streamlit&logoColor=FF4B4B)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=5C3EE8)
 
 ---
+
+```bash
+> ls -la ~/coding-profiles/
+```
+
+## Competitive Programming & Profiles
+
+<a href="https://leetcode.com/u/samiksha1203">
+<img src="https://img.shields.io/badge/LeetCode-samiksha1203-white?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=white&color=black" alt="LeetCode"/>
+</a>&nbsp;
+<a href="https://hackerrank.com/profile/samiksha1203">
+<img src="https://img.shields.io/badge/HackerRank-samiksha1203-white?style=flat-square&logo=hackerrank&logoColor=00EA64&labelColor=white&color=black" alt="HackerRank"/>
+</a>&nbsp;
+<a href="https://codechef.com/users/samiksha1203">
+<img src="https://img.shields.io/badge/CodeChef-samiksha1203-white?style=flat-square&logo=codechef&logoColor=5B4638&labelColor=white&color=black" alt="CodeChef"/>
+</a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/samiksha1203">
+<img src="https://img.shields.io/badge/GeeksforGeeks-samiksha1203-white?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46&labelColor=white&color=black" alt="GeeksforGeeks"/>
+</a>&nbsp;
+<a href="https://kaggle.com/samikshachavan22">
+<img src="https://img.shields.io/badge/Kaggle-samikshachavan22-white?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=white&color=black" alt="Kaggle"/>
+</a>&nbsp;
+<a href="https://huggingface.co/samikshachavan">
+<img src="https://img.shields.io/badge/HuggingFace-samikshachavan-white?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=white&color=black" alt="HuggingFace"/>
+</a>
+
+---
+
+```bash
+> cat ~/stats/github.md
+```
+
+## GitHub Stats
+
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samiksha-1203&theme=default&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=samiksha-1203&theme=default&hide_border=true" />
+</p>
+<p align="left">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-1203&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=donut" />
+</p>
