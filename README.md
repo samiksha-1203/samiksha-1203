@@ -2,8 +2,6 @@
 
 Full-Stack Developer & AI/ML Enthusiast. I build clean, functional software — from responsive web interfaces to intelligent systems that integrate real-world data and machine learning pipelines.
 
-Currently pursuing Computer Science at VIT Mumbai, actively competing on platforms like LeetCode and Kaggle while contributing to open-source AI tooling.
-
 ---
 
 
